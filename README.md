@@ -1,2 +1,0 @@
-# MavenApp
-Test1
