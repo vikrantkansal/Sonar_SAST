@@ -1,2 +1,0 @@
-# MavenApp
-DevSecops Demo
