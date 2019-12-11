@@ -1,2 +1,3 @@
 # MavenApp
 test
+test2
